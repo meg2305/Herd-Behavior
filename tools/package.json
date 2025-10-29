@@ -1,0 +1,13 @@
+{
+  "name": "herd-tools",
+  "version": "1.0.0",
+  "description": "Event generation tools for herd behavior alerter",
+  "main": "event-generator.js",
+  "scripts": {
+    "generate": "node event-generator.js",
+    "spike": "node spike-generator.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

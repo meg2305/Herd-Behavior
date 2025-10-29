@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "product_id": "sneaker-limited-001",
+      "product_name": "Limited Edition Sneakers",
+      "category": "footwear",
+      "price": 199.99,
+      "brand": "Nike"
+    },
+    {
+      "product_id": "wireless-headphones-2024",
+      "product_name": "Wireless Noise Cancelling Headphones",
+      "category": "electronics",
+      "price": 299.99,
+      "brand": "Sony"
+    },
+    {
+      "product_id": "gaming-laptop-pro",
+      "product_name": "Professional Gaming Laptop",
+      "category": "electronics",
+      "price": 1599.99,
+      "brand": "Alienware"
+    },
+    {
+      "product_id": "smartwatch-premium",
+      "product_name": "Premium Smartwatch",
+      "category": "electronics",
+      "price": 399.99,
+      "brand": "Apple"
+    },
+    {
+      "product_id": "yoga-mat-pro",
+      "product_name": "Professional Yoga Mat",
+      "category": "fitness",
+      "price": 89.99,
+      "brand": "Lululemon"
+    },
+    {
+      "product_id": "coffee-maker-deluxe",
+      "product_name": "Deluxe Coffee Maker",
+      "category": "home",
+      "price": 249.99,
+      "brand": "Breville"
+    },
+    {
+      "product_id": "running-shorts",
+      "product_name": "Performance Running Shorts",
+      "category": "clothing",
+      "price": 49.99,
+      "brand": "Under Armour"
+    },
+    {
+      "product_id": "blender-ninja",
+      "product_name": "Ninja Professional Blender",
+      "category": "home",
+      "price": 129.99,
+      "brand": "Ninja"
+    },
+    {
+      "product_id": "basketball-shoes",
+      "product_name": "Elite Basketball Shoes",
+      "category": "footwear",
+      "price": 149.99,
+      "brand": "Jordan"
+    },
+    {
+      "product_id": "tablet-12pro",
+      "product_name": "12 Pro Tablet",
+      "category": "electronics",
+      "price": 899.99,
+      "brand": "Samsung"
+    }
+  ]
+}

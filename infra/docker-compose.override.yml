@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  # 🧠 Stream Processor (Faust) - added via override
+  stream_processor:
+    build: ../stream_processor
+    container_name: stream_processor
+    depends_on:
+      - kafka
+    environment:
+      KAFKA_BROKERS: "kafka:9092"
+      KAFKA_TOPIC: "user_events"
+      ALERTS_TOPIC: "alerts"
+    networks:
+      - herd-net
