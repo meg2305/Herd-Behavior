@@ -1,4 +1,4 @@
-# Herd Alerter
+# Herd Behavior
 
 This project demonstrates a real-time "herd behavior" detection pipeline using:
 - Apache Kafka (Zookeeper + Kafka broker) via Docker Compose
